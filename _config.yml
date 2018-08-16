@@ -1,6 +1,6 @@
-title: Minimal theme
+title: Ethics Frameworks [WIP]
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: Frameworks for balanced teams considering the outcomes of the products they create
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
