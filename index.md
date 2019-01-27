@@ -2,122 +2,27 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
+> "Everyone in a complex system has a slightly different >interpretation. The more interpretations we gather, the >easier it becomes to gain a sense of the whole."
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+>"Without reflection, we go blindly on our way, creating more >unintended consequences, and failing to achieve anything >useful."
+>
+> - Margaret J. Wheatley
 
-### Header 3
+# Incorporating Ethical Thinking
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+The question of building an ethical digital product never contains just a simple yes or no, it is a conversation. By incorporating steps within the process to do deeper thinking around potential outcomes, teams can come to not only understand their impact on an individual user but on a neighborhood, a community, a country, or the world.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+These exercises are a follow on to the [Hippocratic Oath for Technologists](./another-page.html) which was released in April of 2018. The short list of exercises to the left, work together or alone and help cross-functional teams gain comprehension of how the collective and the individuals involved feel about the impact they will make in releasing the product into the world.
 
-#### Header 4
+## Work in Progress
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+These frameworks are open sourced and a work in progress. They assume an equal power dynmaic between different members of a digital product team and that they would be completed as a group, not by an individual. If you have feedback to share (either positive and constructive) you can [send me an email](mailto:hello@mkdaledesign.com) or [make a pull request](https://github.com/MKDale/ethics-frameworks). 
 
-##### Header 5
+Thank you for your time and consideration.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Sincerely, 
+Mariesa Dale
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
