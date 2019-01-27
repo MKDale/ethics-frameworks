@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "jekyll-theme-minimal";
+@import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display');
 
 body {
