@@ -18,7 +18,7 @@ These exercises are a follow on to the [Hippocratic Oath for Technologists](./an
 
 ## Work in Progress
 
-These frameworks are open sourced and a work in progress. They assume an equal power dynmaic between different members of a digital product team and that they would be completed as a group, not by an individual. If you have feedback to share (either positive and constructive) you can [fill out this form](https://goo.gl/forms/1nywgV1Piv6uwO9L2) or [make a pull request](https://github.com/MKDale/ethics-frameworks). 
+These frameworks are open sourced and a work in progress. They assume an equal power dynmaic between members of a digital product team and that they would be completed as a group, not by a single individual. If you have feedback to share (positive and constructive is greatly appreciated) you can [fill out this form](https://goo.gl/forms/1nywgV1Piv6uwO9L2) or [make a pull request](https://github.com/MKDale/ethics-frameworks). 
 
 Thank you for your time and consideration.
 
