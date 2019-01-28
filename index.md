@@ -2,11 +2,11 @@
 layout: default
 ---
 
-> "Everyone in a complex system has a slightly different >interpretation. The more interpretations we gather, the >easier it becomes to gain a sense of the whole."
+> "Everyone in a complex system has a slightly different interpretation. The more interpretations we gather, the easier it becomes to gain a sense of the whole."
 >
->"Without reflection, we go blindly on our way, creating more >unintended consequences, and failing to achieve anything >useful."
+>"Without reflection, we go blindly on our way, creating more unintended consequences, and failing to achieve anything useful."
 >
-> - Margaret J. Wheatley
+> -Margaret J. Wheatley
 
 # Incorporating Ethical Thinking
 
@@ -16,7 +16,7 @@ These exercises are a follow on to the [Hippocratic Oath for Technologists](./an
 
 ## Work in Progress
 
-These frameworks are open sourced and a work in progress. They assume an equal power dynmaic between different members of a digital product team and that they would be completed as a group, not by an individual. If you have feedback to share (either positive and constructive) you can [send me an email](mailto:hello@mkdaledesign.com) or [make a pull request](https://github.com/MKDale/ethics-frameworks). 
+These frameworks are open sourced and a work in progress. They assume an equal power dynmaic between different members of a digital product team and that they would be completed as a group, not by an individual. If you have feedback to share (either positive and constructive) you can [fill out this form](https://goo.gl/forms/1nywgV1Piv6uwO9L2) or [make a pull request](https://github.com/MKDale/ethics-frameworks). 
 
 Thank you for your time and consideration.
 
