@@ -10,15 +10,15 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p><em>{{ site.description | default: site.github.project_tagline }}</em></p>
 
-        <h3>Discovery frameworks:</h3>
-        <p class="view"><a href="./product-lifecycle">Product Lifecycle Timeline</a></p>
-        <p class="view"><a href="./ying-yang">Ying-Yang</a></p>
-        <p class="view"><a href="./blanchard-peale">The Blanchard-Peale</a></p>
-        <p class="view"><a href="./dtfs-ecosystem">Do, Think, Feel, Say: Ecosystem</a></p>
+        <h3>Discovery exercises:</h3>
+        <p class="view"><a href="https://mkdale.github.io/ethics-frameworks/product-timeline.html">Product Lifecycle Timeline</a></p>
+        <p class="view"><a href="https://mkdale.github.io/ethics-frameworks/ying-yang.html">Ying-Yang</a></p>
+        <p class="view"><a href="https://mkdale.github.io/ethics-frameworks/blanchard-peale">The Blanchard-Peale</a></p>
+        <p class="view"><a href="https://mkdale.github.io/ethics-frameworks/dtfs-ecosystem">Do, Think, Feel, Say: Ecosystem</a></p>
       </header>
       <section>
 

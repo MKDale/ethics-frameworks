@@ -2,8 +2,6 @@
 layout: default
 ---
 
-[Back to list](./index.md).
-
 # Ying-Yang
 
 ### Phase II, How: 

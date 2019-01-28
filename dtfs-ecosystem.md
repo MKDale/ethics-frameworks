@@ -2,8 +2,6 @@
 layout: default
 ---
 
-[Back to list](./index.md).
-
 # Do, Think, Feel, Say: Ecosystem
 
 ### Prompt: 
