@@ -23,3 +23,6 @@ Products aren’t always used as intended. Upon release and throughout its lifec
 #### Grid for Whiteboarding 
 
 ![Lifecycle Grid](https://mkdale.github.com/ethics-frameworks/assets/img/LifecycleGrid.png)
+
+Coming soon:
+[View examples of this exercise]
