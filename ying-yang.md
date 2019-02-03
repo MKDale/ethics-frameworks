@@ -18,11 +18,12 @@ According to the laws of unintended consequences, there will always be outcomes 
 
 ### Phase II, How: 
 
-Tie together. Recognize tension. Design around it. (Will develop more language around this soon). Next steps:
+The second phase essentially comes down to three core competencies: tying patterns together, recognizing the tension, and then designing around it. That could go something like this:
 
-1. Everyone on the team does a silent read-through
-2. Clump/Affinity Map similar items across quad border lines
-3. Each item draw a small 2x2 (beneficial to biz against harmful to users) and plot a single point. [photo]
+1. Everyone on the team does a silent read-through of Phase I.
+2. Working together and talking as you go, clump or affinity together the stickies which have similar themes. Work across quadrant border lines.
+3. For each affinitied theme take a single sticky note and draw a small 2x2 (beneficial/detrimental to biz against harmful/beneficial to users) and decide as a group through conversation where to plot a single point. Mark the point on the sticky and move on the to the next theme until all themes have been satisfied.
+![Small 2x2](https://mkdale.github.com/ethics-frameworks/assets/img/Yin-yang-phase2.jpg)
 4. Run a 
 [How Might We](http://www.designkit.org/methods/3) or [Solution Brainstorm](http://www.designkit.org/methods/1) exercise as a follow up to find ways to mitigate or consider how to design/build around highest ethical concerns.
 

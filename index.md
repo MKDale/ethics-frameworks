@@ -10,7 +10,7 @@ layout: default
 
 # Incorporating Ethical Thinking in Product Development
 
-The question of building an ethical digital product never contains just a simple yes or no answer, it is a conversation. By incorporating steps within the delivery process to do deeper thinking around potential outcomes, teams can come to not only understand their impact on an individual user but on a neighborhood, a community, a country, or the world.
+The question of building an ethical digital product never contains just a simple yes or no answer, it's a conversation. By incorporating steps within the delivery process to do deeper thinking around potential outcomes, teams can come to not only understand their impact on an individual user but on a neighborhood, a community, a country, or the world.
 
 These exercises are a follow on to the [Hippocratic Oath for Technologists](https://mkdale.github.io/techoath/) which was released in April of 2018. The short list of exercises to the left, work together or alone and help cross-functional teams gain comprehension of how the collective and the individuals involved feel about the impact they will make in releasing a new product into the world. The exercises may be used at any point during the delivery lifecycle and can be repeated over the course of time as features are released and user behavior changes.
 
@@ -19,7 +19,7 @@ These exercises are a follow on to the [Hippocratic Oath for Technologists](http
 >
 > -Paul Virilio, _Politics of the Very Worst_
 
-Why strive to predict future outcomes of the products we build if doing so is generally impossible? Because setting aside dedicated time to give thought to possibility and knowing where we as individuals draw moral lines in the sand and where the lines of our colleagues can act as an early warning system when we start to see ourselves shift in dangerous directions. May we go head-long into our brave new future with our eyes as wide open as possible.
+Why strive to predict future outcomes of the products we build if doing so seems practically impossible? Because setting aside dedicated time to give thought to possibility and knowing where we as individuals draw moral lines (and also knowing the lines of our colleagues) can act as an early warning system when we start to see our product shift in a dangerous direction. May we go head-long into our brave new future with our eyes as wide open as possible.
 
 ## Work in Progress
 
