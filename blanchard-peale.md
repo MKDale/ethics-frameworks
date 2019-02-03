@@ -4,7 +4,7 @@ layout: default
 
 # The Blanchard-Peale
 
-Products aren’t always used as intended. Upon release and throughout its lifecycle the use of a product may change or include outcomes that were not necessarily intended due to its nature of being a part of a larger social ecosystem. As crafts people it is our responsibility to monitor & understand how a product is *actually* used in the real world, and not just assume intended outcomes. Whether we are the original creator or joined the product team at a later point in time, there should be a responsibility to knowing and being connected in this way.
+Products aren’t always used as intended. Upon release and throughout its lifecycle the use of a product may change or include outcomes that were not necessarily intended due to its nature of being a part of a larger social ecosystem. As crafts people it is our responsibility to monitor & understand how a product is *actually* used in the real world, and not just assume intended outcomes. Whether we are the original creator or joined the product team at a later point in time, there should be a responsibility to knowing and being connected in this way. This exercise is inspired by the 1988 book, [The Power of Ethical Management](https://www.amazon.com/Power-Ethical-Management-Norman-Peale/dp/0688070620), by Norman V Peale and Ken Blanchard.
 
 ## How:
 
@@ -21,5 +21,8 @@ Products aren’t always used as intended. Upon release and throughout its lifec
 ### Note: 
 Group alignment is not the goal for this exercise (and many others in Ethics frameworks). The priority is to develop individual understanding and provoke thought. Delving into and understanding personal, group/team, organizational, and government views is the objective.
 
+![Blanchard-Peale Framework](https://mkdale.github.com/ethics-frameworks/assets/img/Blanchard-Peale.jpg)
+
 Coming soon:
 [View examples of this exercise]
+[Download the PDF]

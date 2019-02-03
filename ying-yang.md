@@ -28,3 +28,4 @@ Tie together. Recognize tension. Design around it. (Will develop more language a
 
 Coming soon:
 [View examples of this exercise]
+[Download the PDF]

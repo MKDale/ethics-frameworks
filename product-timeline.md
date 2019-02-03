@@ -26,3 +26,4 @@ Products aren’t always used as intended. Upon release and throughout its lifec
 
 Coming soon:
 [View examples of this exercise]
+[Download the PDF]

@@ -20,3 +20,4 @@ This exercise helps us as a team and as individuals think bigger, past building 
 
 Coming soon:
 [View examples of this exercise]
+[Download the PDF]
