@@ -8,7 +8,7 @@ layout: default
 > -Margaret J. Wheatley
 
 
-# Incorporating Ethical Thinking in Product Development
+# Incorporating ethical thinking into product development
 
 The question of building an ethical digital product never contains just a simple yes or no answer, it's a conversation. By incorporating steps within the delivery process to do deeper thinking around potential outcomes, teams can come to not only understand their impact on an individual user but on a neighborhood, a community, a country, or the world.
 
@@ -21,7 +21,7 @@ These exercises are a follow on to the [Hippocratic Oath for Technologists](http
 
 Why strive to predict future outcomes of the products we build if doing so seems practically impossible? Because setting aside dedicated time to give thought to possibility and knowing where we as individuals draw moral lines (and also knowing the lines of our colleagues) can act as an early warning system when we start to see our product shift in a dangerous direction. May we go head-long into our brave new future with our eyes as wide open as possible.
 
-## Work in Progress
+## Work in progress
 
 These frameworks are open sourced and a work in progress. They assume an equal power dynmaic between members of a digital product team and that they would be completed as a group, not by a single individual. If you have feedback to share (positive and constructive is greatly appreciated) you can [fill out this form](https://goo.gl/forms/1nywgV1Piv6uwO9L2) or [make a pull request](https://github.com/MKDale/ethics-frameworks). 
 

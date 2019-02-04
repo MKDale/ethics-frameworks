@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Product Lifecycle Timeline
+# Product Timeline
 
 Products aren’t always used as intended. Upon release and throughout its lifecycle the use of a product may change or include outcomes that were not necessarily intended due to its nature of being a part of a larger social ecosystem. As builders of this technology it is our responsibility to monitor & understand how a product is *actually* used in the real world, and not just assume the outcome of our original intent. By asking ourselves, 'How do we intend for this product to be used throughout it's lifetime?' we can gain collective understanding of when we may cross a line. Whether we are the original creator of the product or joined the team at a later point in time, there should be a responsibility to knowing and being connected to our creation's true uses.
 
