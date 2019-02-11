@@ -7,6 +7,7 @@ layout: default
 >
 > -Margaret J. Wheatley
 
+* * *
 
 # Incorporating ethical thinking into product development
 
