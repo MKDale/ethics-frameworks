@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Ying-Yang
+# Yin-Yang
 
 According to the laws of unintended consequences, there will always be outcomes that we will overlook. How a product is used when it is first launched may change, for better, worse, or a mix of both, over the course of it's existence. Unintended does not have to mean unforeseeable though and we will not all arrive at the same conclusions or feel the same about the ethics of what we build together. No one can answer ethical dilemas for us, we have to answer them for ourselves. This exercise is intended to just bring awareness to the collective team and to prompt individuals to think of possible outcomes they may not have arrived at themselves.
 
