@@ -3,9 +3,6 @@ layout: default
 ---
 
 # Yin-Yang
-{::nomarkdown}
-<small class="beta-pill">Beta</small>
-{:/}
 
 * * *
 
