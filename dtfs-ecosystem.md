@@ -4,6 +4,8 @@ layout: default
 
 # Do, Think, Feel, Say, Ecosystem
 
+* * *
+
 This exercise helps us as a team and as individuals think bigger, past building just for an individual user and into understanding how we may affect the greater ecosystem involved.
 
 ![Do Feel Think Say Ecosystem Framework](https://mkdale.github.com/ethics-frameworks/assets/img/DFTS-Ecosystem.jpg)
