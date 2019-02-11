@@ -7,9 +7,11 @@ layout: default
 >
 > -Margaret J. Wheatley
 
-* * *
+
 
 # Incorporating ethical thinking into product development
+
+* * *
 
 The question of building an ethical digital product never contains just a simple yes or no answer, it's a conversation. By incorporating steps within the delivery process to do deeper thinking around potential outcomes, teams can come to not only understand their impact on an individual user but on a neighborhood, a community, a country, or the world.
 
