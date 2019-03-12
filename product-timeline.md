@@ -9,7 +9,12 @@ layout: default
 Products aren’t always used as intended. Upon release and throughout its lifecycle the use of a product may change or include outcomes that were not necessarily intended due to its nature of being a part of a larger social ecosystem. As builders of this technology it is our responsibility to monitor & understand how a product is *actually* used in the real world, and not just assume the outcome of our original intent. By asking ourselves, 'How do we intend for this product to be used throughout it's lifetime?' we can gain collective understanding of when we may cross a line. Whether we are the original creator of the product or joined the team at a later point in time, there should be a responsibility to knowing and being connected to our creation's true uses.
 
 #### Grid for Whiteboarding 
-![Lifecycle Grid](https://mkdale.github.com/ethics-frameworks/assets/img/LifecycleGrid.png)
+
+--- | --- 
+**Today or Upon Release** | What will it do? How will people intereact with it? By what methods? How will we know our intent is successful?
+**One Year After Launch** | What will it do? How will people intereact with it? By what methods? How will we know our intent is successful?
+**Five Years After Launch** | What will it do? How will people intereact with it? By what methods? How will we know our intent is successful?
+**Upon the Product's Death/Sunset** | *When* will this die? How will it die? Will it be replace or will it be no longer needed?
 
 ### How: 
 1. Draw a 2x4 grid on a large whiteboard. 
