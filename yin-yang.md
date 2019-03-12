@@ -8,10 +8,10 @@ layout: default
 
 According to the laws of unintended consequences, there will always be outcomes that we will overlook. How a product is used when it is first launched may change for better, worse, or a mix of both over the course of its existence. No one can answer ethical dilemas for us, we have to answer them for ourselves. This exercise is intended to simply bring awareness to a team and to prompt individuals to think of possible outcomes they may not have arrived at themselves.
 
-**Now** | **In The Future** | .
---- | --- | --- 
-1. Start here in this square. Have every individual on the team write on Post-Its with Sharpie pen (easily legible from afar). One idea per sticky, 5 min total for each quad. | 2. Do this square next. Go quad by quad starting with the positive outcome and in the present, then start ideating about the future. Next, go back to present time and ideate on malicious outcomes. Follow up with how the product could be used for malicious outcomes in the future. 5 minute ideation or slightly more per quad. | **Question to ask: How could this product be used or manipulated for good?
-3. Do this section third. As the team finished each quad, place stickies inside of each quad and leave much room for discussion. | 4. Finally, write a list of action items, if needed. This exercise pairs well with Assumptions & Experiments. | **Question to ask: How could this product be used or manipulated for malicious outcomes?
+| **Now** | **In The Future** | . |
+| :--- | :--- | :--- |
+| 1. Start here in this square. Have every individual on the team write on Post-Its with Sharpie pen (easily legible from afar). One idea per sticky, 5 min total for each quad. | 2. Do this square next. Go quad by quad starting with the positive outcome and in the present, then start ideating about the future. Next, go back to present time and ideate on malicious outcomes. Follow up with how the product could be used for malicious outcomes in the future. 5 minute ideation or slightly more per quad. | **Question to ask: How could this product be used or manipulated for good?** |
+| 3. Do this section third. As the team finished each quad, place stickies inside of each quad and leave much room for discussion. | 4. Finally, write a list of action items, if needed. This exercise pairs well with Assumptions & Experiments. | **Question to ask: How could this product be used or manipulated for malicious outcomes?** |
 
 ### Phase I, How: 
 
