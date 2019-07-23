@@ -33,5 +33,4 @@ Either before or after product has been built and released to users to help a te
 3. Large white board and dry erase markers or large white paper and pens that will be easily legible from far away.
 4. A timer or cell phone for time boxing.
 
-Coming soon:
-[Download the PDF]
+[Download the PDF](https://mkdale.github.com/ethics-frameworks/assets/pdfs/Blanchard-Peale.pdf "blanchard peale download pdf")

@@ -34,5 +34,4 @@ Either before or after product has been built and released to users to help a te
 3. Large white board and dry erase markers or large white paper and pens that will be easily legible from far away.
 4. A stopwatch or cell phone for timing ideating and time boxing discussions.
 
-Coming soon:
-[Download the PDF]
+[Download the PDF](https://mkdale.github.com/ethics-frameworks/assets/pdfs/Do-Think-Feel-Say.pdf "Do Think Feel Say download pdf")
