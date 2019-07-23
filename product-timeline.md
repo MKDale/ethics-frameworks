@@ -35,4 +35,4 @@ Either before or after product has been built and released to users to help a te
 4. A stopwatch or cell phone for timing ideating and time boxing discussions.
 
 
-[Download the PDF](https://mkdale.github.com/ethics-frameworks/assets/pdfs/Product-Timeline.pdf "product timeline download pdf")
+[Download the PDF](https://mkdale.github.com/ethics-frameworks/assets/pdfs/Product-Timeline.pdf "product timeline download pdf"){:target="_blank"}
