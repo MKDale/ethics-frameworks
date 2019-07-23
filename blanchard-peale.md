@@ -20,10 +20,10 @@ Either before or after product has been built and released to users to help a te
 2. Label them at the top from left to right: "Is it legal?", "Is it fair?", "How does it make me feel?"
 3. Beginning on the left side with legal, give this prompt to the group: "Does this product comply with government laws? Does it comply with our own organization’s internal regulations, requirements, or brand/mission?"
 4. Split into pairs or groups of 3 to research either government or organizational questions together and gain new understanding of laws that you may not currently have. Everyone comes together after 15 minutes of investigation.
-5. Next gather 3 piles of stickies: one green, one yellow, one red. Each person gets one stack of each color. Use the stickies to vote. Red=Stop, Yellow=Concern or Caution, Green=Go.
+5. Next gather 3 piles of stickies: one green, one yellow, and one red. Each person gets one stack of each color. Use the stickies to vote. Red=Stop, Yellow=Concern or Caution, Green=Go.
 6. Read the initial questions for the section one more time, and allow each person to come to the board to vote with a single red, yellow, or green stickie.
 7. Repeat the same steps with the second and third columns. For the fair column, give the prompt, “Would others view decision as honest & honorable? Are one or more affected parties being treated without consideration or respect? Is someone getting an advantage that others are not?”. For the feel column give the prompt, “What is your gut feeling, positive, negative or in between, about this product or feature? How would people react if they saw it in a newspaper headline?”
-8. After the vote for each section, take just a few mintues for individual read-through and reflection. After all three sections have been completed and voted on, discuss the outcomes as a group. This will be very similar to a retro facilitation. Point to and read aloud any red and yellow votes and ask people within the team to share why they or others might have voted that way. 
+8. After the vote for each section, take just a few minutes for individual read-through and reflection. After all three sections have been completed and voted on, discuss the outcomes as a group. This will be very similar to a retro facilitation. Point to and read aloud any red and yellow votes and ask people within the team to share why they or others might have voted that way. 
 9. Optional follow up of an 
 [Insights & Actions](http://www.designkit.org/methods/62){:target="_blank"} exercise, if desired.
 
