@@ -25,7 +25,7 @@ Either before or after product has been built and released to users to help a te
 2. Down the left side, write from top to bottom: Today or Upon Release, One Year After Launch, Five Years After Launch, and Upon the Product’s Death/Sunset. 
 3. Designate a facilitator. As a balanced or cross-functional team, begin at the top section, allowing 5 minutes for ideation and individual reflection of the coordinating questions. Have every individual write silently on their own, one idea per sticky note.
 4. Next, have the facilitator gather and 
-[affinity](https://www.interaction-design.org/literature/article/affinity-diagrams-learn-how-to-cluster-and-bundle-ideas-and-facts){:target="_blank"} stickies at the board within the section. Discuss as a group. Time box the discussion to 10 minutes before moving on. Let the conversation evolve to ensure that _all_ voices and opinions are heard.
+[affinity](https://www.interaction-design.org/literature/article/affinity-diagrams-learn-how-to-cluster-and-bundle-ideas-and-facts) stickies at the board within the section. Discuss as a group. Time box the discussion to 10 minutes before moving on. Let the conversation evolve to ensure that _all_ voices and opinions are heard.
 5. Move on to the next section below, repeating the steps above. The exercise is complete when
 
 ### Materials List:
@@ -35,4 +35,4 @@ Either before or after product has been built and released to users to help a te
 4. A stopwatch or cell phone for timing ideating and time boxing discussions.
 
 
-[Download the PDF](https://mkdale.github.com/ethics-frameworks/assets/pdfs/Product-Timeline.pdf "product timeline download pdf"){:target="_blank"}
+[Download the PDF](assets/pdfs/Product-Timeline.pdf "product timeline download pdf")
