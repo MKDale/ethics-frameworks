@@ -12,7 +12,7 @@ According to the laws of unintended consequences, there will always be outcomes 
 
 Either before or after product has been built and released to users to help a team ideate and understand unintended outcomes and potential ways the product could be manipulated for malicious or positive outcomes.
 
-![Big 2x2](https://mkdale.github.com/ethics-frameworks/assets/img/Yin-yang-phase1.jpg "example of quadrant, see phase one how")
+!(/assets/img/Yin-yang-phase1.jpg "Example quadrant, see phase one how")
 
 ### Phase I, How: 
 
@@ -30,7 +30,7 @@ The second phase essentially comes down to three core competencies: tying patter
 1. Everyone on the team does a silent read-through of the Phase I exercise.
 2. Working together and talking as you go, affinity (group) together the stickies which have similar themes across quadrant border lines.
 3. For each theme take a single sticky note and draw a small 2x2 (beneficial/detrimental to biz against harmful/beneficial to users) and decide as a group through conversation where to plot a single point. Mark the point on the sticky and move on the to the next grouped theme until all themes have been satisfied.
-![Small 2x2](https://mkdale.github.com/ethics-frameworks/assets/img/Yin-yang-phase2.jpg "two by two example, see how section three")
+![https://mkdale.github.com/ethics-frameworks/assets/img/Yin-yang-phase2.jpg "two by two example, see how section three"
 4. Run a 
 [How Might We](http://www.designkit.org/methods/3){:target="_blank"} or [Solution Brainstorm](http://www.designkit.org/methods/1){:target="_blank"} exercise as a follow up to find ways to mitigate or consider how to design/build around highest ethical concerns.
 
