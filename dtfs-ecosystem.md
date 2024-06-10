@@ -12,7 +12,7 @@ This exercise helps us as a team and as individuals think bigger, past building 
 
 Either before or after product has been built and released to users to help a team ideate and understand implications beyond just the individual.
 
-![Do Feel Think Say Ecosystem Framework](https://mkdale.github.com/ethics-frameworks/assets/img/DFTS-Ecosystem.jpg "five layer target image with four quadrants in on left right top and bottom")
+![Do Feel Think Say Ecosystem Framework](assets/img/DFTS-Ecosystem.jpg "five layer target image with four quadrants in on left right top and bottom")
 
 ### How: 
 
@@ -34,4 +34,4 @@ Either before or after product has been built and released to users to help a te
 3. Large white board and dry erase markers or large white paper and pens that will be easily legible from far away.
 4. A stopwatch or cell phone for timing ideating and time boxing discussions.
 
-[Download the PDF](https://mkdale.github.com/ethics-frameworks/assets/pdfs/Do-Think-Feel-Say.pdf "Do Think Feel Say download pdf"){:target="_blank"}
+[Download the PDF](assets/pdfs/Do-Think-Feel-Say.pdf "Do Think Feel Say download pdf"){:target="_blank"}
