@@ -42,6 +42,6 @@ The second phase essentially comes down to three core competencies: tying patter
 3. Large white board and dry erase markers or large white paper and pens that will be easily legible from far away.
 4. A stopwatch or cell phone for timing ideating and time boxing discussions.
 
-[Download the PDF](https://mkdale.github.com/ethics-frameworks/assets/pdfs/Yin-Yang.pdf "yin yang download pdf"){:target="_blank"}
+[Download the PDF](assets/pdfs/Yin-Yang.pdf "yin yang download pdf")
 
-![Yin Yang Overview](assets/img/Yin-yang.png "Yin Yang Overview")
+![Yin Yang Overview](assets/img/yin-yang.png)
