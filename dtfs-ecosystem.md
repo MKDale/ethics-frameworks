@@ -26,7 +26,7 @@ Either before or after product has been built and released to users to help a te
 4. At the end of the 5 minutes, facilitate a structured discussion of the layer before moving on, asking individual volunteers in the group to share what they wrote in each of the four cross-sections, with the rest of the team. Allow their statements to generate productive discussion with the rest of the team for up to 10 minutes before moving on.  
 5. As one layer of the exercise is completed move on to the next outward layer, facilitating each section in the same way. 
 6. End with discussion of potential impacts to the global ecosystem. For many teams, an impulsive reaction may be to dismiss such broad implications but the facilitator should push the group to find at least one or two. Often impacts which originate from the center of the circle can compound on each other and ultimately do have wide-spead consequences, even if small. Stretch each other and yourselves to think of compounded affects and add time for ideation, if needed. See: 
-[Chaos Theory](https://en.wikipedia.org/wiki/Chaos_theory){:target="_blank"}
+[Chaos Theory](https://en.wikipedia.org/wiki/Chaos_theory)
 
 ### Materials List:
 1. Various colors of Post-It notes. One small stack, per person.
@@ -34,4 +34,4 @@ Either before or after product has been built and released to users to help a te
 3. Large white board and dry erase markers or large white paper and pens that will be easily legible from far away.
 4. A stopwatch or cell phone for timing ideating and time boxing discussions.
 
-[Download the PDF](assets/pdfs/Do-Think-Feel-Say.pdf "Do Think Feel Say download pdf"){:target="_blank"}
+[Download the PDF](assets/pdfs/Do-Think-Feel-Say.pdf "Do Think Feel Say download pdf") 
