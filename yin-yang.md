@@ -12,7 +12,7 @@ According to the laws of unintended consequences, there will always be outcomes 
 
 Either before or after product has been built and released to users to help a team ideate and understand unintended outcomes and potential ways the product could be manipulated for malicious or positive outcomes.
 
-![Yin Yang Phase One](/assets/imag/Yin-yang-phase1.jpg "Yin Yang Phase 1")
+![Yin Yang Phase One](../assets/imag/Yin-yang-phase1.jpg "Yin Yang Phase 1")
 
 ### Phase I, How: 
 
@@ -23,7 +23,7 @@ Either before or after product has been built and released to users to help a te
 5. Talk until everyone feels heard but don't look for or drive for a consensus or resolution. Be conscientious of balancing good discussion with driving the exercise forward for everyone to put at least one sticky in each quadrant and say a word about it; this might take longer for groups larger than 8 people.
 6. Finally, write a list of action items, if the group feels it's needed. This exercise pairs well with Assumptions & Experiments.
 
-![Yin Yang Phase Two](/assets/imag/Yin-yang-phase2.jpg "Yin Yang Phase 2")
+![Yin Yang Phase Two](../assets/imag/Yin-yang-phase2.jpg "Yin Yang Phase 2")
 
 ### Phase II, How: 
 
@@ -44,4 +44,4 @@ The second phase essentially comes down to three core competencies: tying patter
 
 [Download the PDF](https://mkdale.github.com/ethics-frameworks/assets/pdfs/Yin-Yang.pdf "yin yang download pdf"){:target="_blank"}
 
-![Yin Yang Overview](/assets/imag/Yin-yang.png "Yin Yang Overview")
+![Yin Yang Overview](../assets/imag/Yin-yang.png "Yin Yang Overview")
