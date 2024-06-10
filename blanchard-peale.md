@@ -12,7 +12,7 @@ Whether we are the original creator or joined the product team at a later point 
 
 Either before or after product has been built and released to users to help a team ideate and understand how other members on their team view the collective strategy efforts. Group alignment or consensus is not the goal for this exercise (and many others in The Ethics Toolkit). The priority is to develop individual understanding and provoke thought. Simply delving into and understanding personal, group/team, organizational, and government views is the objective. As a result of doing this exercise early in product development, a team can raise their concerns with product leadership before an app is made public or an individual who is potentially uneasy with a strategic direction can opt-out.
 
-![Blanchard-Peale Framework](https://mkdale.github.com/ethics-frameworks/assets/img/Blanchard-Peale.jpg "blanchard peale visual, see how section")
+![Blanchard-Peale Framework](assets/img/Blanchard-Peale.jpg "blanchard peale visual, see how section")
 
 ## How:
 
@@ -25,7 +25,7 @@ Either before or after product has been built and released to users to help a te
 7. Repeat the same steps with the second and third columns. For the fair column, give the prompt, “Would others view decision as honest & honorable? Are one or more affected parties being treated without consideration or respect? Is someone getting an advantage that others are not?”. For the feel column give the prompt, “What is your gut feeling, positive, negative or in between, about this product or feature? How would people react if they saw it in a newspaper headline?”
 8. After the vote for each section, take just a few minutes for individual read-through and reflection. After all three sections have been completed and voted on, discuss the outcomes as a group. This will be very similar to a retro facilitation. Point to and read aloud any red and yellow votes and ask people within the team to share why they or others might have voted that way. 
 9. Optional follow up of an 
-[Insights & Actions](http://www.designkit.org/methods/62){:target="_blank"} exercise, if desired.
+[Insights & Actions](http://www.designkit.org/methods/62) exercise, if desired.
 
 ### Materials List:
 1. Green, Yellow, and Red Post-It notes. One small stack of each color, per person.
@@ -33,4 +33,4 @@ Either before or after product has been built and released to users to help a te
 3. Large white board and dry erase markers or large white paper and pens that will be easily legible from far away.
 4. A timer or cell phone for time boxing.
 
-[Download the PDF](https://mkdale.github.com/ethics-frameworks/assets/pdfs/Blanchard-Peale.pdf "blanchard peale download pdf"){:target="_blank"}
+[Download the PDF](assets/pdfs/Blanchard-Peale.pdf "blanchard peale download pdf")
